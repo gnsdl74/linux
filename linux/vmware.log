@@ -1,0 +1,345 @@
+2019-12-16T10:53:30.537+09:00| vmx| I125: Log for VMware Workstation pid=1400 version=15.0.1 build=build-10737736 option=Release
+2019-12-16T10:53:30.537+09:00| vmx| I125: The process is 64-bit.
+2019-12-16T10:53:30.537+09:00| vmx| I125: Host codepage=windows-949 encoding=windows-949-2000
+2019-12-16T10:53:30.537+09:00| vmx| I125: Host is Windows 7 Enterprise, 64-bit Service Pack 1 (Build 7601)
+2019-12-16T10:53:30.517+09:00| vmx| I125: VTHREAD 2684 "vmx"
+2019-12-16T10:53:30.517+09:00| vmx| I125: DictionaryLoad: Cannot open file "%SystemDrive%\%ProgramData%\VMware\vCenterServer\cfg\vsphereFeatures\vsphereFeatures.cfg": The system cannot find the path specified.
+2019-12-16T10:53:30.517+09:00| vmx| I125: [msg.dictionary.load.openFailed] Cannot open file "%SystemDrive%\%ProgramData%\VMware\vCenterServer\cfg\vsphereFeatures\vsphereFeatures.cfg": The system cannot find the path specified.
+2019-12-16T10:53:30.517+09:00| vmx| I125: FeatureStateLib: Error while loading feature config file: %SystemDrive%\%ProgramData%\VMware\vCenterServer\cfg\vsphereFeatures\vsphereFeatures.cfg, using default feature state values.
+2019-12-16T10:53:30.517+09:00| vmx| I125: LOCALE windows-949-2000 -> NULL User=412 System=412
+2019-12-16T10:53:30.517+09:00| vmx| I125: Msg_SetLocaleEx: HostLocale=windows-949-2000 UserLocale=NULL
+2019-12-16T10:53:30.517+09:00| vmx| I125: DictionaryLoad: Cannot open file "C:\Users\goott2\AppData\Roaming\VMware\config.ini": The system cannot find the file specified.
+2019-12-16T10:53:30.517+09:00| vmx| I125: Msg_Reset:
+2019-12-16T10:53:30.517+09:00| vmx| I125: [msg.dictionary.load.openFailed] Cannot open file "C:\Users\goott2\AppData\Roaming\VMware\config.ini": The system cannot find the file specified.
+2019-12-16T10:53:30.517+09:00| vmx| I125: ----------------------------------------
+2019-12-16T10:53:30.517+09:00| vmx| I125: ConfigDB: Failed to load C:\Users\goott2\AppData\Roaming\VMware\config.ini
+2019-12-16T10:53:30.517+09:00| vmx| I125: OBJLIB-LIB: Objlib initialized.
+2019-12-16T10:53:30.527+09:00| vmx| I125: DictionaryLoad: Cannot open file "C:\Users\goott2\AppData\Roaming\VMware\config.ini": The system cannot find the file specified.
+2019-12-16T10:53:30.527+09:00| vmx| I125: [msg.dictionary.load.openFailed] Cannot open file "C:\Users\goott2\AppData\Roaming\VMware\config.ini": The system cannot find the file specified.
+2019-12-16T10:53:30.527+09:00| vmx| I125: PREF Optional preferences file not found at C:\Users\goott2\AppData\Roaming\VMware\config.ini. Using default values.
+2019-12-16T10:53:30.527+09:00| vmx| I125: UUID: SMBIOS UUID is reported as 'c0 6c b9 11 dc 1d b2 11-80 00 eb 37 4c cb 6f eb'.
+2019-12-16T10:53:30.527+09:00| vmx| I125: FILE: FileLockDynaLink: Further process validation tools are: available
+2019-12-16T10:53:30.537+09:00| vmx| I125: lib/ssl: OpenSSL using FIPS_drbg for RAND
+2019-12-16T10:53:30.537+09:00| vmx| I125: lib/ssl: protocol list tls1.2
+2019-12-16T10:53:30.537+09:00| vmx| I125: lib/ssl: protocol list tls1.2 (openssl flags 0x17000000)
+2019-12-16T10:53:30.537+09:00| vmx| I125: lib/ssl: cipher list !aNULL:kECDH+AESGCM:ECDH+AESGCM:RSA+AESGCM:kECDH+AES:ECDH+AES:RSA+AES
+2019-12-16T10:53:30.537+09:00| vmx| I125: Hostname=goott2-PC
+2019-12-16T10:53:30.547+09:00| vmx| I125: IP=fe80::b16a:9fa7:1b53:a932%11
+2019-12-16T10:53:30.547+09:00| vmx| I125: IP=fe80::f091:b048:d3de:f58f%13
+2019-12-16T10:53:30.547+09:00| vmx| I125: IP=fe80::65cf:6431:b873:2b74%15
+2019-12-16T10:53:30.547+09:00| vmx| I125: IP=172.16.2.14
+2019-12-16T10:53:30.547+09:00| vmx| I125: IP=192.168.43.1
+2019-12-16T10:53:30.547+09:00| vmx| I125: IP=192.168.10.1
+2019-12-16T10:53:30.567+09:00| vmx| I125: System uptime 1400660209 us
+2019-12-16T10:53:30.567+09:00| vmx| I125: Command line: "C:\Program Files (x86)\VMware\VMware Workstation\x64\vmware-vmx.exe" "-T" "querytoken" "-s" "vmx.stdio.keep=TRUE" "-#" "product=1;name=VMware Workstation;version=15.0.1;buildnumber=10737736;licensename=VMware Workstation;licenseversion=15.0;" "-@" "pipe=\\.\pipe\vmxd59ab2d08d7cbe49;msgs=ui" "C:\Users\goott2\Desktop\linux\LINUX.vmx"
+2019-12-16T10:53:30.567+09:00| vmx| I125: Msg_SetLocaleEx: HostLocale=windows-949-2000 UserLocale=NULL
+2019-12-16T10:53:30.587+09:00| vmx| I125: WQPoolAllocPoll : pollIx = 1, signalHandle = 332
+2019-12-16T10:53:30.587+09:00| vmx| I125: WQPoolAllocPoll : pollIx = 2, signalHandle = 432
+2019-12-16T10:53:30.597+09:00| vmx| I125: VigorTransport listening on fd 444
+2019-12-16T10:53:30.597+09:00| vmx| I125: Vigor_Init 1
+2019-12-16T10:53:30.597+09:00| vmx| I125: Connecting 'ui' to pipe '\\.\pipe\vmxd59ab2d08d7cbe49' with user '(null)'
+2019-12-16T10:53:30.597+09:00| vmx| I125: VMXVmdb: Local connection timeout: 60000 ms.
+2019-12-16T10:53:30.697+09:00| vmx| I125: VmdbAddConnection: cnxPath=/db/connection/#1/, cnxIx=1
+2019-12-16T10:53:30.697+09:00| vmx| I125: Vix: [mainDispatch.c:482]: VMAutomation: Initializing VMAutomation.
+2019-12-16T10:53:30.697+09:00| vmx| I125: Vix: [mainDispatch.c:745]: VMAutomationOpenListenerSocket() listening
+2019-12-16T10:53:30.707+09:00| vmx| I125: Vix: [mainDispatch.c:4233]: VMAutomation_ReportPowerOpFinished: statevar=0, newAppState=1870, success=1 additionalError=0
+2019-12-16T10:53:30.707+09:00| vmx| I125: Transitioned vmx/execState/val to poweredOff
+2019-12-16T10:53:30.707+09:00| vmx| I125: Vix: [mainDispatch.c:4233]: VMAutomation_ReportPowerOpFinished: statevar=1, newAppState=1873, success=1 additionalError=0
+2019-12-16T10:53:30.707+09:00| vmx| I125: Vix: [mainDispatch.c:4233]: VMAutomation_ReportPowerOpFinished: statevar=2, newAppState=1877, success=1 additionalError=0
+2019-12-16T10:53:30.707+09:00| vmx| I125: Vix: [mainDispatch.c:4233]: VMAutomation_ReportPowerOpFinished: statevar=3, newAppState=1881, success=1 additionalError=0
+2019-12-16T10:53:30.727+09:00| vmx| I125: IOPL_VBSRunning: Failed to connect to WMI namespace[error=0x8004100e]
+2019-12-16T10:53:30.727+09:00| vmx| I125: HD: host version is 6.1.7601
+2019-12-16T10:53:30.727+09:00| vmx| I125: HD: d0ac0
+2019-12-16T10:53:30.727+09:00| vmx| I125: IOCTL_VMX86_SET_MEMORY_PARAMS already set
+2019-12-16T10:53:30.727+09:00| vmx| I125: FeatureCompat: No EVC masks.
+2019-12-16T10:53:30.727+09:00| vmx| I125: hostCPUID vendor: GenuineIntel
+2019-12-16T10:53:30.727+09:00| vmx| I125: hostCPUID family: 0x6 model: 0x1e stepping: 0x5
+2019-12-16T10:53:30.727+09:00| vmx| I125: hostCPUID codename: Clarksfield/Lynnfield (Core i5)
+2019-12-16T10:53:30.727+09:00| vmx| I125: hostCPUID name: Intel(R) Core(TM) i5 CPU         760  @ 2.80GHz
+2019-12-16T10:53:30.727+09:00| vmx| I125: hostCPUID level 00000000, 0: 0x0000000b 0x756e6547 0x6c65746e 0x49656e69
+2019-12-16T10:53:30.727+09:00| vmx| I125: hostCPUID level 00000001, 0: 0x000106e5 0x00100800 0x0098e3fd 0xbfebfbff
+2019-12-16T10:53:30.727+09:00| vmx| I125: hostCPUID level 00000002, 0: 0x55035a01 0x00f0b0e4 0x00000000 0x09ca212c
+2019-12-16T10:53:30.727+09:00| vmx| I125: hostCPUID level 00000003, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-12-16T10:53:30.727+09:00| vmx| I125: hostCPUID level 00000004, 0: 0x1c004121 0x01c0003f 0x0000003f 0x00000000
+2019-12-16T10:53:30.727+09:00| vmx| I125: hostCPUID level 00000004, 1: 0x1c004122 0x00c0003f 0x0000007f 0x00000000
+2019-12-16T10:53:30.727+09:00| vmx| I125: hostCPUID level 00000004, 2: 0x1c004143 0x01c0003f 0x000001ff 0x00000000
+2019-12-16T10:53:30.727+09:00| vmx| I125: hostCPUID level 00000004, 3: 0x1c03c163 0x03c0003f 0x00001fff 0x00000002
+2019-12-16T10:53:30.727+09:00| vmx| I125: hostCPUID level 00000004, 4: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-12-16T10:53:30.727+09:00| vmx| I125: hostCPUID level 00000005, 0: 0x00000040 0x00000040 0x00000003 0x00001120
+2019-12-16T10:53:30.727+09:00| vmx| I125: hostCPUID level 00000006, 0: 0x00000003 0x00000002 0x00000001 0x00000000
+2019-12-16T10:53:30.727+09:00| vmx| I125: hostCPUID level 00000007, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-12-16T10:53:30.727+09:00| vmx| I125: hostCPUID level 00000008, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-12-16T10:53:30.727+09:00| vmx| I125: hostCPUID level 00000009, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-12-16T10:53:30.727+09:00| vmx| I125: hostCPUID level 0000000a, 0: 0x07300403 0x00000044 0x00000000 0x00000603
+2019-12-16T10:53:30.727+09:00| vmx| I125: hostCPUID level 0000000b, 0: 0x00000001 0x00000001 0x00000100 0x00000000
+2019-12-16T10:53:30.727+09:00| vmx| I125: hostCPUID level 0000000b, 1: 0x00000004 0x00000004 0x00000201 0x00000000
+2019-12-16T10:53:30.727+09:00| vmx| I125: hostCPUID level 0000000b, 2: 0x00000000 0x00000000 0x00000002 0x00000000
+2019-12-16T10:53:30.727+09:00| vmx| I125: hostCPUID level 80000000, 0: 0x80000008 0x00000000 0x00000000 0x00000000
+2019-12-16T10:53:30.727+09:00| vmx| I125: hostCPUID level 80000001, 0: 0x00000000 0x00000000 0x00000001 0x28100800
+2019-12-16T10:53:30.727+09:00| vmx| I125: hostCPUID level 80000002, 0: 0x65746e49 0x2952286c 0x726f4320 0x4d542865
+2019-12-16T10:53:30.727+09:00| vmx| I125: hostCPUID level 80000003, 0: 0x35692029 0x55504320 0x20202020 0x20202020
+2019-12-16T10:53:30.727+09:00| vmx| I125: hostCPUID level 80000004, 0: 0x30363720 0x20402020 0x30382e32 0x007a4847
+2019-12-16T10:53:30.727+09:00| vmx| I125: hostCPUID level 80000005, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-12-16T10:53:30.727+09:00| vmx| I125: hostCPUID level 80000006, 0: 0x00000000 0x00000000 0x01006040 0x00000000
+2019-12-16T10:53:30.727+09:00| vmx| I125: hostCPUID level 80000007, 0: 0x00000000 0x00000000 0x00000000 0x00000100
+2019-12-16T10:53:30.727+09:00| vmx| I125: hostCPUID level 80000008, 0: 0x00003024 0x00000000 0x00000000 0x00000000
+2019-12-16T10:53:30.727+09:00| vmx| I125: CPUID differences from hostCPUID.
+2019-12-16T10:53:30.727+09:00| vmx| I125: CPUID[1] level 00000001, 0: 0x000106e5 0x02100800 0x0098e3fd 0xbfebfbff
+2019-12-16T10:53:30.727+09:00| vmx| I125: CPUID[1] level 0000000b, 0: 0x00000001 0x00000001 0x00000100 0x00000002
+2019-12-16T10:53:30.727+09:00| vmx| I125: CPUID[1] level 0000000b, 1: 0x00000004 0x00000004 0x00000201 0x00000002
+2019-12-16T10:53:30.727+09:00| vmx| I125: CPUID[1] level 0000000b, 2: 0x00000000 0x00000000 0x00000002 0x00000002
+2019-12-16T10:53:30.727+09:00| vmx| I125: CPUID[2] level 00000001, 0: 0x000106e5 0x04100800 0x0098e3fd 0xbfebfbff
+2019-12-16T10:53:30.727+09:00| vmx| I125: CPUID[2] level 0000000b, 0: 0x00000001 0x00000001 0x00000100 0x00000004
+2019-12-16T10:53:30.727+09:00| vmx| I125: CPUID[2] level 0000000b, 1: 0x00000004 0x00000004 0x00000201 0x00000004
+2019-12-16T10:53:30.727+09:00| vmx| I125: CPUID[2] level 0000000b, 2: 0x00000000 0x00000000 0x00000002 0x00000004
+2019-12-16T10:53:30.727+09:00| vmx| I125: CPUID[3] level 00000001, 0: 0x000106e5 0x06100800 0x0098e3fd 0xbfebfbff
+2019-12-16T10:53:30.727+09:00| vmx| I125: CPUID[3] level 0000000b, 0: 0x00000001 0x00000001 0x00000100 0x00000006
+2019-12-16T10:53:30.727+09:00| vmx| I125: CPUID[3] level 0000000b, 1: 0x00000004 0x00000004 0x00000201 0x00000006
+2019-12-16T10:53:30.727+09:00| vmx| I125: CPUID[3] level 0000000b, 2: 0x00000000 0x00000000 0x00000002 0x00000006
+2019-12-16T10:53:30.727+09:00| vmx| I125: Common: MSR       0x3a =                0x7
+2019-12-16T10:53:30.727+09:00| vmx| I125: Common: MSR      0x480 =   0xda04000000000e
+2019-12-16T10:53:30.727+09:00| vmx| I125: Common: MSR      0x481 =       0x7f00000016
+2019-12-16T10:53:30.727+09:00| vmx| I125: Common: MSR      0x482 = 0xfff9fffe0401e172
+2019-12-16T10:53:30.727+09:00| vmx| I125: Common: MSR      0x483 =   0x7fffff00036dff
+2019-12-16T10:53:30.727+09:00| vmx| I125: Common: MSR      0x484 =     0xffff000011ff
+2019-12-16T10:53:30.727+09:00| vmx| I125: Common: MSR      0x485 =            0x401c5
+2019-12-16T10:53:30.727+09:00| vmx| I125: Common: MSR      0x486 =         0x80000021
+2019-12-16T10:53:30.727+09:00| vmx| I125: Common: MSR      0x487 =         0xffffffff
+2019-12-16T10:53:30.727+09:00| vmx| I125: Common: MSR      0x488 =             0x2000
+2019-12-16T10:53:30.727+09:00| vmx| I125: Common: MSR      0x489 =             0x67ff
+2019-12-16T10:53:30.727+09:00| vmx| I125: Common: MSR      0x48a =               0x2a
+2019-12-16T10:53:30.727+09:00| vmx| I125: Common: MSR      0x48b =       0x7f00000000
+2019-12-16T10:53:30.727+09:00| vmx| I125: Common: MSR      0x48c =      0xf0106114141
+2019-12-16T10:53:30.727+09:00| vmx| I125: Common: MSR      0x48d =       0x7f00000016
+2019-12-16T10:53:30.727+09:00| vmx| I125: Common: MSR      0x48e = 0xfff9fffe04006172
+2019-12-16T10:53:30.727+09:00| vmx| I125: Common: MSR      0x48f =   0x7fffff00036dfb
+2019-12-16T10:53:30.727+09:00| vmx| I125: Common: MSR      0x490 =     0xffff000011fb
+2019-12-16T10:53:30.727+09:00| vmx| I125: Common: MSR      0x491 =                  0
+2019-12-16T10:53:30.727+09:00| vmx| I125: Common: MSR 0xc0010114 =                  0
+2019-12-16T10:53:30.727+09:00| vmx| I125: Common: MSR       0xce =      0x90040031500
+2019-12-16T10:53:30.727+09:00| vmx| I125: VMMon_GetkHzEstimate: Calculated 2793030 kHz
+2019-12-16T10:53:30.727+09:00| vmx| I125: HOSTINFO: Host supports constant rate TSC.
+2019-12-16T10:53:30.727+09:00| vmx| I125: TSC kHz estimates: vmmon 2793030, remembered 0, osReported 2794000. Using 2793030 kHz.
+2019-12-16T10:53:30.727+09:00| vmx| I125: TSC first measured delta 273
+2019-12-16T10:53:30.727+09:00| vmx| I125: TSC min delta 269
+2019-12-16T10:53:30.727+09:00| vmx| I125: PTSC: RefClockToPTSC 0 @ 2727568Hz -> 0 @ 2793030000Hz
+2019-12-16T10:53:30.727+09:00| vmx| I125: PTSC: RefClockToPTSC ((x * 2147483931) >> 21) + -3775913310313
+2019-12-16T10:53:30.727+09:00| vmx| I125: PTSC: tscOffset -3774165501230
+2019-12-16T10:53:30.727+09:00| vmx| I125: PTSC: using TSC
+2019-12-16T10:53:30.727+09:00| vmx| I125: PTSC: hardware TSCs are synchronized.
+2019-12-16T10:53:30.727+09:00| vmx| I125: PTSC: hardware TSCs may have been adjusted by the host.
+2019-12-16T10:53:30.727+09:00| vmx| I125: PTSC: current PTSC=137264025596
+2019-12-16T10:53:30.727+09:00| vmx| I125: WQPoolAllocPoll : pollIx = 3, signalHandle = 580
+2019-12-16T10:53:32.227+09:00| vmx| I125: ConfigCheck: No rules file found. Checks are disabled.
+2019-12-16T10:53:32.227+09:00| vmx| I125: changing directory to C:\Users\goott2\Desktop\linux\.
+2019-12-16T10:53:32.227+09:00| vmx| I125: Config file: C:\Users\goott2\Desktop\linux\LINUX.vmx
+2019-12-16T10:53:32.227+09:00| vmx| I125: Vix: [mainDispatch.c:4233]: VMAutomation_ReportPowerOpFinished: statevar=1, newAppState=1873, success=1 additionalError=0
+2019-12-16T10:53:32.227+09:00| vmx| I125: Vix: [mainDispatch.c:4233]: VMAutomation_ReportPowerOpFinished: statevar=2, newAppState=1878, success=1 additionalError=0
+2019-12-16T10:53:32.247+09:00| vmx| A100: ConfigDB: Setting ide1:0.fileName = "auto detect"
+2019-12-16T10:53:32.267+09:00| vmx| I125: VMXVmdbCbVmVmxExecState: Exec state change requested to state poweredOn without reset, soft, softOptionTimeout: 0.
+2019-12-16T10:53:32.267+09:00| vmx| I125: Tools: sending 'OS_PowerOn' (state = 3) state change request
+2019-12-16T10:53:32.267+09:00| vmx| I125: Tools: Delaying state change request to state 3.
+2019-12-16T10:53:32.267+09:00| vmx| W115: PowerOn
+2019-12-16T10:53:32.267+09:00| vmx| I125: VMX_PowerOn: VMX build 10737736, UI build 10737736
+2019-12-16T10:53:32.267+09:00| vmx| I125: HostWin32: WIN32 NUMA node 0, CPU mask 0x000000000000000f
+2019-12-16T10:53:32.277+09:00| vmx| I125: Vix: [mainDispatch.c:4233]: VMAutomation_ReportPowerOpFinished: statevar=0, newAppState=1871, success=1 additionalError=0
+2019-12-16T10:53:32.277+09:00| vmx| I125: HOST Windows version 6.1, build 7601, platform 2, "Service Pack 1"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT --- GLOBAL SETTINGS C:\ProgramData\VMware\VMware Workstation\settings.ini
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT          printers.enabled = "FALSE"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT --- NON PERSISTENT (null)
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT --- USER PREFERENCES C:\Users\goott2\AppData\Roaming\VMware\preferences.ini
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT pref.keyboardAndMouse.vmHotKey.enabled = "FALSE"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT pref.keyboardAndMouse.vmHotKey.count = "0"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT        pref.hostMRU.count = "1"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT        pref.hostMRU0.name = "localhost"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT        pref.hostMRU0.type = "vim"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT    pref.hostMRU0.viewtype = "vmView"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT pref.ws.session.window.count = "1"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT pref.ws.session.window0.tab.count = "2"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT pref.ws.session.window0.tab0.dest = ""
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT pref.ws.session.window0.tab0.file = ""
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT pref.ws.session.window0.tab0.type = "home"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT pref.ws.session.window0.tab0.cnxType = "vmdb"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT pref.ws.session.window0.tab0.focused = "FALSE"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT pref.ws.session.window0.tab1.dest = ""
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT pref.ws.session.window0.tab1.file = "C:\Users\goott2\Desktop\linux\LINUX.vmx"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT pref.ws.session.window0.tab1.type = "vm"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT pref.ws.session.window0.tab1.cnxType = "vmdb"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT pref.ws.session.window0.tab1.focused = "TRUE"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT pref.ws.session.window0.sidebar = "TRUE"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT pref.ws.session.window0.sidebar.width = "200"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT pref.ws.session.window0.statusBar = "TRUE"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT pref.ws.session.window0.tabs = "TRUE"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT pref.ws.session.window0.thumbnailBar = "FALSE"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT pref.ws.session.window0.thumbnailBar.size = "100"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT pref.ws.session.window0.thumbnailBar.view = "opened-vms"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT pref.ws.session.window0.placement.left = "52"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT pref.ws.session.window0.placement.top = "9"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT pref.ws.session.window0.placement.right = "1492"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT pref.ws.session.window0.placement.bottom = "769"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT pref.ws.session.window0.maximized = "FALSE"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT --- USER DEFAULTS C:\Users\goott2\AppData\Roaming\VMware\config.ini
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT --- HOST DEFAULTS C:\ProgramData\VMware\VMware Workstation\config.ini
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT         authd.client.port = "902"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT           authd.proxy.nfc = "vmware-hostd:ha-nfc"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT installerDefaults.autoSoftwareUpdateEnabled = "no"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT installerDefaults.autoSoftwareUpdateEnabled.epoch = "4791"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT installerDefaults.componentDownloadEnabled = "yes"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT installerDefaults.dataCollectionEnabled = "no"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT installerDefaults.dataCollectionEnabled.epoch = "4791"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT --- SITE DEFAULTS C:\ProgramData\VMware\VMware Workstation\config.ini
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT         authd.client.port = "902"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT           authd.proxy.nfc = "vmware-hostd:ha-nfc"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT installerDefaults.autoSoftwareUpdateEnabled = "no"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT installerDefaults.autoSoftwareUpdateEnabled.epoch = "4791"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT installerDefaults.componentDownloadEnabled = "yes"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT installerDefaults.dataCollectionEnabled = "no"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT installerDefaults.dataCollectionEnabled.epoch = "4791"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT --- NONPERSISTENT
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT            vmx.stdio.keep = "TRUE"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT             gui.available = "TRUE"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT --- COMMAND LINE
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT            vmx.stdio.keep = "TRUE"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT             gui.available = "TRUE"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT --- RECORDING
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT            vmx.stdio.keep = "TRUE"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT             gui.available = "TRUE"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT --- CONFIGURATION C:\Users\goott2\Desktop\linux\LINUX.vmx 
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT            config.version = "8"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT         virtualHW.version = "16"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT        pciBridge0.present = "TRUE"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT        pciBridge4.present = "TRUE"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT     pciBridge4.virtualDev = "pcieRootPort"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT      pciBridge4.functions = "8"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT        pciBridge5.present = "TRUE"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT     pciBridge5.virtualDev = "pcieRootPort"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT      pciBridge5.functions = "8"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT        pciBridge6.present = "TRUE"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT     pciBridge6.virtualDev = "pcieRootPort"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT      pciBridge6.functions = "8"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT        pciBridge7.present = "TRUE"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT     pciBridge7.virtualDev = "pcieRootPort"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT      pciBridge7.functions = "8"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT             vmci0.present = "TRUE"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT             hpet0.present = "TRUE"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT               displayName = "LINUX"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT                   guestOS = "centos7-64"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT                     nvram = "LINUX.nvram"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT virtualHW.productCompatibility = "hosted"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT        powerType.powerOff = "soft"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT         powerType.powerOn = "soft"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT         powerType.suspend = "soft"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT           powerType.reset = "soft"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT usb.vbluetooth.startConnected = "TRUE"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT            tools.syncTime = "FALSE"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT          sound.autoDetect = "TRUE"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT            sound.fileName = "-1"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT             sound.present = "TRUE"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT                  numvcpus = "2"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT      cpuid.coresPerSocket = "2"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT               vcpu.hotadd = "TRUE"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT                   memsize = "2048"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT                mem.hotadd = "TRUE"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT          scsi0.virtualDev = "lsilogic"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT             scsi0.present = "TRUE"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT          scsi0:0.fileName = "LINUX.vmdk"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT           scsi0:0.present = "TRUE"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT         ide1:0.deviceType = "cdrom-raw"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT           ide1:0.fileName = "auto detect"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT            ide1:0.present = "TRUE"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT               usb.present = "TRUE"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT              ehci.present = "TRUE"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT  ethernet0.connectionType = "nat"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT     ethernet0.addressType = "generated"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT      ethernet0.virtualDev = "e1000"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT          serial0.fileType = "thinprint"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT          serial0.fileName = "thinprint"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT         ethernet0.present = "TRUE"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT           serial0.present = "TRUE"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT        extendedConfigFile = "LINUX.vmxf"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT           floppy0.present = "FALSE"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT                 uuid.bios = "56 4d dc 8a 7f 5e a8 64-f1 28 27 03 3a 0c 0b 5b"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT             uuid.location = "56 4d dc 8a 7f 5e a8 64-f1 28 27 03 3a 0c 0b 5b"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT              scsi0:0.redo = ""
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT  pciBridge0.pciSlotNumber = "17"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT  pciBridge4.pciSlotNumber = "21"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT  pciBridge5.pciSlotNumber = "22"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT  pciBridge6.pciSlotNumber = "23"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT  pciBridge7.pciSlotNumber = "24"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT       scsi0.pciSlotNumber = "16"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT         usb.pciSlotNumber = "32"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT   ethernet0.pciSlotNumber = "33"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT       sound.pciSlotNumber = "34"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT        ehci.pciSlotNumber = "35"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT       vmci0.pciSlotNumber = "36"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT             svga.vramSize = "268435456"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT  vmotion.checkpointFBSize = "134217728"
+2019-12-16T10:53:32.277+09:00| vmx| I125: DICT vmotion.checkpointSVGAPrimarySize = "268435456"
+2019-12-16T10:53:32.287+09:00| vmx| I125: DICT ethernet0.generatedAddress = "00:0c:29:0c:0b:5b"
+2019-12-16T10:53:32.287+09:00| vmx| I125: DICT ethernet0.generatedAddressOffset = "0"
+2019-12-16T10:53:32.287+09:00| vmx| I125: DICT                  vmci0.id = "973867867"
+2019-12-16T10:53:32.287+09:00| vmx| I125: DICT    monitor.phys_bits_used = "43"
+2019-12-16T10:53:32.287+09:00| vmx| I125: DICT             cleanShutdown = "TRUE"
+2019-12-16T10:53:32.287+09:00| vmx| I125: DICT              softPowerOff = "TRUE"
+2019-12-16T10:53:32.287+09:00| vmx| I125: DICT             usb:0.present = "TRUE"
+2019-12-16T10:53:32.287+09:00| vmx| I125: DICT          usb:0.deviceType = "hid"
+2019-12-16T10:53:32.287+09:00| vmx| I125: DICT                usb:0.port = "0"
+2019-12-16T10:53:32.287+09:00| vmx| I125: DICT              usb:0.parent = "-1"
+2019-12-16T10:53:32.287+09:00| vmx| I125: DICT               usb:1.speed = "2"
+2019-12-16T10:53:32.287+09:00| vmx| I125: DICT             usb:1.present = "TRUE"
+2019-12-16T10:53:32.287+09:00| vmx| I125: DICT          usb:1.deviceType = "hub"
+2019-12-16T10:53:32.287+09:00| vmx| I125: DICT                usb:1.port = "1"
+2019-12-16T10:53:32.287+09:00| vmx| I125: DICT              usb:1.parent = "-1"
+2019-12-16T10:53:32.287+09:00| vmx| I125: DICT svga.guestBackedPrimaryAware = "TRUE"
+2019-12-16T10:53:32.287+09:00| vmx| I125: DICT         ide1:0.autodetect = "TRUE"
+2019-12-16T10:53:32.287+09:00| vmx| I125: DICT     ide1:0.startConnected = "FALSE"
+2019-12-16T10:53:32.287+09:00| vmx| I125: DICT                vhv.enable = "TRUE"
+2019-12-16T10:53:32.287+09:00| vmx| I125: DICT --- USER DEFAULTS C:\Users\goott2\AppData\Roaming\VMware\config.ini 
+2019-12-16T10:53:32.287+09:00| vmx| I125: DICT --- HOST DEFAULTS C:\ProgramData\VMware\VMware Workstation\config.ini 
+2019-12-16T10:53:32.287+09:00| vmx| I125: DICT         authd.client.port = "902"
+2019-12-16T10:53:32.287+09:00| vmx| I125: DICT           authd.proxy.nfc = "vmware-hostd:ha-nfc"
+2019-12-16T10:53:32.287+09:00| vmx| I125: DICT installerDefaults.autoSoftwareUpdateEnabled = "no"
+2019-12-16T10:53:32.287+09:00| vmx| I125: DICT installerDefaults.autoSoftwareUpdateEnabled.epoch = "4791"
+2019-12-16T10:53:32.287+09:00| vmx| I125: DICT installerDefaults.componentDownloadEnabled = "yes"
+2019-12-16T10:53:32.287+09:00| vmx| I125: DICT installerDefaults.dataCollectionEnabled = "no"
+2019-12-16T10:53:32.287+09:00| vmx| I125: DICT installerDefaults.dataCollectionEnabled.epoch = "4791"
+2019-12-16T10:53:32.287+09:00| vmx| I125: DICT --- SITE DEFAULTS C:\ProgramData\VMware\VMware Workstation\config.ini 
+2019-12-16T10:53:32.287+09:00| vmx| I125: DICT         authd.client.port = "902"
+2019-12-16T10:53:32.287+09:00| vmx| I125: DICT           authd.proxy.nfc = "vmware-hostd:ha-nfc"
+2019-12-16T10:53:32.287+09:00| vmx| I125: DICT installerDefaults.autoSoftwareUpdateEnabled = "no"
+2019-12-16T10:53:32.287+09:00| vmx| I125: DICT installerDefaults.autoSoftwareUpdateEnabled.epoch = "4791"
+2019-12-16T10:53:32.287+09:00| vmx| I125: DICT installerDefaults.componentDownloadEnabled = "yes"
+2019-12-16T10:53:32.287+09:00| vmx| I125: DICT installerDefaults.dataCollectionEnabled = "no"
+2019-12-16T10:53:32.287+09:00| vmx| I125: DICT installerDefaults.dataCollectionEnabled.epoch = "4791"
+2019-12-16T10:53:32.287+09:00| vmx| I125: DICT --- GLOBAL SETTINGS C:\ProgramData\VMware\VMware Workstation\settings.ini 
+2019-12-16T10:53:32.287+09:00| vmx| I125: DICT          printers.enabled = "FALSE"
+2019-12-16T10:53:32.287+09:00| vmx| I125: ToolsISO: open of C:\Program Files (x86)\VMware\VMware Workstation\isoimages_manifest.txt.sig failed: Could not find the file
+2019-12-16T10:53:32.287+09:00| vmx| I125: ToolsISO: Unable to read signature file 'C:\Program Files (x86)\VMware\VMware Workstation\isoimages_manifest.txt.sig', ignoring.
+2019-12-16T10:53:32.287+09:00| vmx| I125: ToolsISO: Updated cached value for imageName to 'linux.iso'.
+2019-12-16T10:53:32.287+09:00| vmx| I125: ToolsISO: Selected Tools ISO 'linux.iso' for 'centos7-64' guest.
+2019-12-16T10:53:32.287+09:00| vmx| I125: Vix: [mainDispatch.c:4233]: VMAutomation_ReportPowerOpFinished: statevar=1, newAppState=1873, success=1 additionalError=0
+2019-12-16T10:53:32.287+09:00| vmx| I125: Module 'CPUIDEarly' power on failed.
+2019-12-16T10:53:32.287+09:00| vmx| I125: VMX_PowerOn: ModuleTable_PowerOn = 0
+2019-12-16T10:53:32.287+09:00| vmx| I125: Vix: [mainDispatch.c:4233]: VMAutomation_ReportPowerOpFinished: statevar=1, newAppState=1873, success=1 additionalError=0
+2019-12-16T10:53:32.287+09:00| vmx| I125: Msg_Post: Error
+2019-12-16T10:53:32.287+09:00| vmx| I125: [msg.cpuid.legacyCPU.noRealModeHV] This host does not support virtualizing real mode. The Intel "VMX Unrestricted Guest" feature is necessary to run this virtual machine on an Intel processor.
+2019-12-16T10:53:32.287+09:00| vmx| I125: [msg.moduletable.powerOnFailed] Module 'CPUIDEarly' power on failed.
+2019-12-16T10:53:32.287+09:00| vmx| I125: [msg.vmx.poweron.failed] Failed to start the virtual machine.
+2019-12-16T10:53:32.287+09:00| vmx| I125: ----------------------------------------
+2019-12-16T10:53:33.787+09:00| vmx| I125: Vix: [mainDispatch.c:4233]: VMAutomation_ReportPowerOpFinished: statevar=0, newAppState=1870, success=1 additionalError=0
+2019-12-16T10:53:33.787+09:00| vmx| I125: Transitioned vmx/execState/val to poweredOff
+2019-12-16T10:53:33.787+09:00| vmx| I125: Vix: [mainDispatch.c:4233]: VMAutomation_ReportPowerOpFinished: statevar=0, newAppState=1870, success=0 additionalError=0
+2019-12-16T10:53:33.787+09:00| vmx| I125: Vix: [mainDispatch.c:4271]: Error VIX_E_FAIL in VMAutomation_ReportPowerOpFinished(): Unknown error
+2019-12-16T10:53:33.787+09:00| vmx| I125: Vix: [mainDispatch.c:4233]: VMAutomation_ReportPowerOpFinished: statevar=0, newAppState=1870, success=1 additionalError=0
+2019-12-16T10:53:33.787+09:00| vmx| I125: Transitioned vmx/execState/val to poweredOff
+2019-12-16T10:53:33.787+09:00| vmx| I125: WQPoolFreePoll : pollIx = 3, signalHandle = 580
+2019-12-16T10:53:33.787+09:00| vmx| I125: Vix: [mainDispatch.c:833]: VMAutomation_LateShutdown()
+2019-12-16T10:53:33.787+09:00| vmx| I125: Vix: [mainDispatch.c:782]: VMAutomationCloseListenerSocket. Closing listener socket.
+2019-12-16T10:53:33.787+09:00| vmx| I125: Flushing VMX VMDB connections
+2019-12-16T10:53:33.787+09:00| vmx| I125: VmdbDbRemoveCnx: Removing Cnx from Db for '/db/connection/#1/'
+2019-12-16T10:53:33.787+09:00| vmx| I125: VmdbCnxDisconnect: Disconnect: closed pipe for pub cnx '/db/connection/#1/' (0)
+2019-12-16T10:53:33.787+09:00| vmx| I125: VigorTransport_ServerDestroy: server destroyed.
+2019-12-16T10:53:33.787+09:00| vmx| I125: WQPoolFreePoll : pollIx = 2, signalHandle = 432
+2019-12-16T10:53:33.787+09:00| vmx| I125: WQPoolFreePoll : pollIx = 1, signalHandle = 332
+2019-12-16T10:53:33.797+09:00| vmx| I125: VMX exit (0).
+2019-12-16T10:53:33.797+09:00| vmx| I125: OBJLIB-LIB: ObjLib cleanup done.
